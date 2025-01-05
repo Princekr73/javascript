@@ -5,7 +5,6 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
     
 // })
 
-
 // arrow function used
 // coding.forEach( (item) => {
 //  console.log(item);
